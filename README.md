@@ -18,3 +18,4 @@ Practice modular coding, state management, and UI/UX design.
 
 Deploy and Test the Application
 Understand how to test, debug, and possibly deploy a full-stack web application.
+please download the necessary packages, Requirement.txt
